@@ -168,6 +168,8 @@
 
 ## 👻 Design
 ### Architecture
+![architecture-new drawio](https://github.com/banzzokee/.github/assets/47658862/21a345b9-38b1-46b5-9972-1451e5afc71c)
+
 ### API Spec
 [API Spec](https://etapim.notion.site/API-9434d3215f564826b0dfb95219b758c8?pvs=4)
 
@@ -177,6 +179,15 @@
 ###  Wireframe
 ## 🛠️ Skill Stack
 ### Frontend
+- Javascript
+- React
+- Vite
+- Axios
+- StompJS
+- css-module
+- JSON-server
+- Kakao map SDK
+- Figma
 ### Backend
 - Server
   - Java 17
