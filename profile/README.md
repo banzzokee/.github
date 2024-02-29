@@ -178,7 +178,7 @@
 
 ###  Wireframe
 ## 🛠️ Skill Stack
-<h3 align="center">Frontend</h3>
+<h3 align="center">📚 Frontend 📚</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
@@ -192,28 +192,29 @@
    <img src="https://img.shields.io/badge/StompJS-353E58?style=flat&logoColor=white"/></a>&nbsp 
 </p>
 
-### Backend
-- Server
-  - Java 17
-  - Spring boot
-  - Gradle
-  - Spring Security
-  - OAuth
-  - JPA
-  - Firebase Cloud Messaging(FCM)
-  - STOMP
-  - RabbitMQ
-  - QueryDSL
-  - JUnit5
-  - Mockito
-- DB
-  - MySQL
-  - ElasticSearch
-  - Redis
-- Infra
-  - Docker
-  - AWS ec2
-  - AWS S3
-  - AWS RDS
-  - AWS ElastiCache
-  - Github actions
+<h3 align="center">📚 Backend 📚</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=flat&logo=hibernate&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Querydsl-186BFF?style=flat&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Mockito-3FCF8E?style=flat&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/STOMP-353E58?style=flat&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat&logoColor=white"/></a>&nbsp
+   <br/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/></a>&nbsp
+   <br/>
+   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat&logo=firebase&logoColor=white"/></a>&nbsp
+</p>
