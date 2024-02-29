@@ -178,16 +178,20 @@
 
 ###  Wireframe
 ## 🛠️ Skill Stack
-### Frontend
-- Javascript
-- React
-- Vite
-- Axios
-- StompJS
-- css-module
-- JSON-server
-- Kakao map SDK
-- Figma
+<h3 align="center">Frontend</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/></a>&nbsp 
+   <br>
+   <img src="https://img.shields.io/badge/CSS--Modules-000000?style=flat&logo=cssmodules&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/JSON--server-382923?style=flat&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/StompJS-353E58?style=flat&logoColor=white"/></a>&nbsp 
+</p>
+
 ### Backend
 - Server
   - Java 17
