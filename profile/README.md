@@ -10,7 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# 🦮 반쪽이
+# 🦮 반쪽이   
+[![Java CI with Gradle](https://github.com/banzzokee/banzzokee-back/actions/workflows/build.yml/badge.svg)](https://github.com/banzzokee/banzzokee-back/actions/workflows/build.yml)
+[![auto CI CD](https://github.com/banzzokee/banzzokee-back/actions/workflows/deploy.yml/badge.svg)](https://github.com/banzzokee/banzzokee-back/actions/workflows/deploy.yml)
+
 ## 🙋 About
 매년 끝없이 버려지는 유기견들을 위한 유기견 입양을 손쉽게 할 수 있도록 도와주는 커뮤니티 서비스입니다.
 
